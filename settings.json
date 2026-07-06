@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "khoamc.aternos.me",
-    "port": 31576,
+    "port":31576,
     "version": "",
     "try-creative": false
   },
