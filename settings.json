@@ -2,8 +2,8 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "imgonnacream",
-    "password": "",
-    "type": "offline"
+    "password": "khoa2014",
+    "type": "online"
   },
   "server": {
     "ip": "khoamc.aternos.me",
