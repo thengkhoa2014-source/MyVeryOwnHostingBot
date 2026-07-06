@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip":  "khoamc.aternos.me",
+    "ip": "khoamc.aternos.me",
     "port": 31576,
     "version": "",
     "try-creative": false
